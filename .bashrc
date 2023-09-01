@@ -128,10 +128,6 @@
         alias Liver='live-server'
         alias Suhu='curl v2n.wttr.in/Yogyakarta'
         
-        alias gosel='nvim'
-        alias gos='vim'
-        alias el='tmux'
-
         alias python='python3.10'
 
         #alias vdir='vdir --color=auto'
